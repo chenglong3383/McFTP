@@ -7,6 +7,7 @@ It offers reasonable accurate temperature results to compare the relative
 performance of different thermal approaches.
 
 How to install McFTP in Linux:
+
 The installation requires CMake 2.8
 1. switch to the build directory.  
 	cd build
