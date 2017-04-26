@@ -8,9 +8,9 @@ performance of different thermal approaches.
 
 How to install McFTP in Linux:
 
-The installation requires CMake 2.8
-1. switch to the build directory.  
-	
+The installation requires CMake 2.8.
+1. switch to the build directory:
+
 	cd build
 	
 2. invoke CMake. 
