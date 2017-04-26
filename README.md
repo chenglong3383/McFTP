@@ -10,10 +10,15 @@ How to install McFTP in Linux:
 
 The installation requires CMake 2.8
 1. switch to the build directory.  
+	
 	cd build
+	
 2. invoke CMake. 
+	
 	cmake ..
+	
 3. compile with make.
+	
 	make
 	
 Then the executable program named 'mcftp' will be created.
