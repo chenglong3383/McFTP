@@ -23,5 +23,7 @@ The installation requires CMake 2.8
 	
 Then the executable program named 'mcftp' will be created.
 Users should run mcftp with root priviledge.
+
 Example:
+
 	sudo ./mcftp test.xml
